@@ -1,0 +1,66 @@
+.Welcome_bar{
+    background-color: green;
+    padding: 10px;
+}
+.Welcome_heading{
+    text-align: center;
+    color: #ffffff;
+}
+
+.about_heading{
+    align-content: center;
+    text-align: center;
+    color: #ffffff;
+}
+.AboutCSS_Section{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    }
+    
+.AboutCSS_Head{
+    margin-right: 50px;
+  
+    text-align: start;
+   
+    padding: 10px;
+    
+}
+.BoxModel_Head{
+    margin-left: 10px;
+    text-align: start;
+  
+    padding: 10px;
+
+}
+.ResponsiveWebDesign_Section{
+    display: flex;
+    flex: row;
+    justify-content: start;
+    align-items: start;
+    
+}
+.ResponsiveWebDesign_Head{
+    
+    margin-right: 250px;
+    align-items: start; 
+    text-align: start;
+   
+    padding: 10px;
+    margin-top: 25px;
+}
+.Website_Heading{
+    padding: 20px;
+}
+.footer_Section{
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+}
+.Heading{
+    color: ;
+    font-weight: bold;
+
+}
